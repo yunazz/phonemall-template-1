@@ -1,0 +1,96 @@
+.fontSC1 {
+  font-family: "score1";
+}
+.fontSC2 {
+  font-family: "score2";
+}
+.fontSC3 {
+  font-family: "score3";
+}
+.fontSC4 {
+  font-family: "score4";
+}
+.fontSC5 {
+  font-family: "score5";
+}
+.fontSC6 {
+  font-family: "score6";
+}
+.fontSC7 {
+  font-family: "score7";
+}
+.fontSC8 {
+  font-family: "score8";
+}
+
+@font-face {
+  font-family: "score1";
+  src: url("../font/s-core-dream-light/scdream1-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream1-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score2";
+  src: url("../font/s-core-dream-light/scdream2-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream2-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score3";
+  src: url("../font/s-core-dream-light/scdream3-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream3-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score4";
+  src: url("../font/s-core-dream-light/scdream4-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream4-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score5";
+  src: url("../font/s-core-dream-light/scdream5-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream5-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score6";
+  src: url("../font/s-core-dream-light/scdream6-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream6-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score7";
+  src: url("../font/s-core-dream-light/scdream7-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream7-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score8";
+  src: url("../font/s-core-dream-light/scdream8-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream8-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "score9";
+  src: url("../font/s-core-dream-light/scdream9-webfont.woff2") format("woff2"),
+    url("../font/s-core-dream-light/scdream9-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
